@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: pink;
+  display: flex;
+  /* transform: translateX(10); */
+  /* transform: translateX(-50%); */
+  /* backface-visibility: hidden; */
+}
