@@ -41,6 +41,7 @@
     "postcss": "^8.4.12",
     "postcss-loader": "^6.2.1",
     "postcss-preset-env": "^7.4.3",
+    "schema-utils": "^4.0.0",
     "style-loader": "^3.3.1",
     "thread-loader": "^3.0.4",
     "url-loader": "^4.1.1",
